@@ -6,7 +6,6 @@ metadata:
     app: vote
   name: vote
 spec:
-  minReadySeconds: 20
   replicas: 3
   template:
     spec:
